@@ -1,0 +1,127 @@
+.header {
+    font-family: 'Ceviche One', cursive;
+    text-align: center;
+    border: 5px solid rgb(228, 120, 19);
+    background-color: gold;
+    margin: 0px auto;
+
+}
+
+.wallet {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Ceviche One', cursive;
+    border: 5px solid rgb(228, 120, 19);
+    background-color: gold;
+    margin: 5px auto;
+    display: inline-block;
+
+}
+
+.background {
+    background-image: url("../css/images/dojo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.building_container {
+    background-color: black;
+    padding: 15px 0 15px 0;
+}
+
+.building_farm {
+    background-image: url("../css/images/ricefield.jpg");
+    font-family: 'Noto Serif', serif;
+    color: rgb(248, 248, 248);
+    text-shadow: 2px 2px #0c0c0c;
+    font-size: 25px;
+    border: 5px inset rgb(228, 120, 19);
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    margin-left: 4.5px;
+
+}
+
+.building_casino {
+    background-image: url("../css/images/poker.jpg");
+    font-family: 'Noto Serif', serif;
+    font-size: 25px;
+    color: rgb(250, 185, 46);
+    text-shadow: 2px 2px #0c0c0c;
+    border: 5px inset rgb(228, 120, 19);
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    margin-left: 4.5px;
+
+}
+
+.building_cave {
+    background-image: url("../css/images/cave.jpg");
+    font-family: 'Noto Serif', serif;
+    color: rgb(248, 248, 248);
+    text-shadow: 2px 2px #0c0c0c;
+    font-size: 25px;
+    border: 5px inset rgb(228, 120, 19);
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    margin-left: 4.5px;
+
+}
+
+.building_home {
+    background-image: url("../css/images/livingroom.jpg");
+    font-family: 'Noto Serif', serif;
+    color: rgb(248, 248, 248);
+    text-shadow: 2px 2px #0c0c0c;
+    font-size: 25px;
+    border: 5px inset rgb(228, 120, 19);
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    margin-left: 4.5px;
+
+}
+
+button {
+    border-top: 1px solid #96d1f8;
+    background: #7d2c00;
+    background: -webkit-linear-gradient(top, #e69900, #7d2c00);
+    background: -moz-linear-gradient(top, #e69900, #7d2c00);
+    background: -ms-linear-gradient(top, #e69900, #7d2c00);
+    background: -o-linear-gradient(top, #e69900, #7d2c00);
+    padding: 13px 26px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+    -webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    -moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+    text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+
+.activity {
+    background-image: url("../css/images/oriental.png");
+    font-family: 'Ceviche One', cursive;
+    font-size: 18px;
+    border: 5px inset rgb(228, 120, 19);
+
+}
+
+.act_feed {
+    text-align: center;
+    font-family: 'Ceviche One', cursive;
+    border: 5px solid rgb(228, 120, 19);
+    background-color: gold;
+    margin: 5px auto;
+}
